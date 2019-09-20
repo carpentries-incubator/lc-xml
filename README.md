@@ -6,7 +6,7 @@
 - [Katrina Simone Fenlon](https://github.com/kfenlon)
 - [Nilani Ganeshwaran](https://github.com/uom-nilani)
 
-Lesson Maintainers communication is via the [team site (not available)]().
+Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-xml-maintainers).
 
 ## Library Carpentry
 
