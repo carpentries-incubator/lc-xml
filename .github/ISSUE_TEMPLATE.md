@@ -1,3 +1,7 @@
+**This lesson is not currently maintained and any new issues may not be responded to until a new maintainer is found.** 
+
+**If you would like to become a maintainer for this lesson, please open an issue and a member of The Carpentries team will help you get set up.**
+
 Please delete this line and the text below before submitting your contribution.
 
 ---
