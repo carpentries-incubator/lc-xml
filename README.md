@@ -1,12 +1,8 @@
-# Maintainers for Library Carpentry: XML
+# Library Carpentry: XML
 
-- [Catherine Smith](https://github.com/catsmith)
-- [Jesse Johnston](https://github.com/morskyjezek)
-- [Phil Reed](https://github.com/PhilReedData)
-- [Katrina Simone Fenlon](https://github.com/kfenlon)
-- [Nilani Ganeshwaran](https://github.com/uom-nilani)
+**This lesson is not currently maintained. It was intended to be a lesson for librarians as part of the [Library Carpentry](https://librarycarpentry.org/) lesson program but was not developed beyond initial lesson setup in 2019. In 2022, [the Library Carpentry Curriculum Advisory Committee](https://carpentries.org/curriculum-advisors/) requested that the lesson be transferred to The Carpentries Incubator, in the hope that members of the community may find it and wish to take ownership of its development.** 
 
-Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-xml-maintainers).
+**If you would like to become a maintainer for this lesson and take charge of its development, please open an issue on the repository and a member of The Carpentries team will help you get started.**
 
 ## Library Carpentry
 
